@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NATA-MPI</title>
+    <meta http-equiv="refresh" content="https://script.google.com/macros/s/AKfycbySQNbZQGlB6vxgiu0_h06aRTyoFbhso12HuolyxtUHozjKEudIBwqo-W4VyMn_2Zp6/exec">
+</head>
+<body>
+    <p>Jika Anda tidak dialihkan, <a href="https://script.google.com/macros/s/AKfycbySQNbZQGlB6vxgiu0_h06aRTyoFbhso12HuolyxtUHozjKEudIBwqo-W4VyMn_2Zp6/exec">klik di sini</a>.</p>
+</body>
+</html>
